@@ -22,3 +22,5 @@ st.write(
 st.write("Down is an example of how we used AI in our project, This graph is made entirely by chatGPT. Stimulating the usefulness that AI can have during school/work settings")
 st.image("data/ai_usage_student_life_graph.png", width=700)
 st.write("The graph shows how students use AI with different session lengths and numbers of prompts, with bubble size being their final outcome scores. Color shows the level of AI support, with shape representing the type of task completed. It reveals patterns between AI usage intensity, task type, and student performance.")
+
+#hello nicole for testing purposes
