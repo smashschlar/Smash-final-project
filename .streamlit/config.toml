@@ -1,7 +1,7 @@
 [theme]
-base="dark"
-primaryColor="#ffffffff"  # Neon green
-backgroundColor="#000010"  # Deep space black-blue
-secondaryBackgroundColor="#111122"  # Very dark indigo for content blocks
-textColor="#eaeaea"  # Soft bright gray
-font="Times New Roman"
+base = "dark"
+primaryColor = "#ffffffff"
+backgroundColor = "#000010"
+secondaryBackgroundColor = "#111122"
+textColor = "#eaeaea"
+font = "Times New Roman"
