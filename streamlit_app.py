@@ -9,7 +9,6 @@ pages = {
         st.Page("pages/apis.py", title = "Project Overview"),
         st.Page("pages/AIinstudents.py", title = "The AI student data page"),
         st.Page("pages/experimental.py", title = "experimental page"),
-        st.Page("pages/JANZBOT.py", title = "JANZBOT"),
     ]
 }
 
