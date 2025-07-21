@@ -20,9 +20,9 @@ st.write(
 
 col1, col2 = st.columns(2)
 with col1:
-    st.image("/workspaces/Maybe-project/data/Uchibro.jpg", width=250)
+    st.image("/workspaces/Smash-final-project/data/Uchibro.jpg", width=250)
 with col2:
-    st.image("/workspaces/Maybe-project/data/spongebob-study.gif", width=400)
+    st.image("/workspaces/Smash-final-project/data/spongebob-study.gif", width=400)
 
 st.write(
     """
@@ -33,7 +33,7 @@ st.write(
 st.title("Data Table")
 st.write("""Explore how students at different academic levels use AI tools like ChatGPT for tasks such as coding, writing, studying, and brainstorming.""")
          
-data = pd.read_csv("/workspaces/Maybe-project/data/ai_assistant_usage_student_life.csv")
+data = pd.read_csv("/workspaces/Smash-final-project/data/ai_assistant_usage_student_life.csv")
 
 
 tab1, tab2, tab3, tab4 = st.tabs(["Data", "Task Type Pie", "Reuse Pie", "Prompts Bar"])
