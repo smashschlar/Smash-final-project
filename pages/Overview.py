@@ -14,7 +14,7 @@ st.write(
 
 
 if st.button("Fetch Overview"):
-    st.write("This dataset gives a simulated look into how students are using AI tools like ChatGPT to support their academic work. With 10,000 sessions across different grade levels and subjects, it captures real-world-style interactions where students use AI for writing, coding, studying, brainstorming, and more. Each session includes details like the student's academic level, task type, session length, how effective the AI was, satisfaction ratings, and whether the student reused the tool. It's designed for exploratory data analysis, data visualization, and machine learning projects focused on understanding AI's growing role in education. ")
+    st.write("Our project explores how artificial intelligence (AI) is being integrated into key areas of modern life, with a focus on sectors such as employment and education. By analyzing a collection of diverse datasets, we aim to uncover patterns in the adoption and impact of AI technologies. In the job market, we examine trends in AI-related roles, required skills, and industry demand, highlighting how companies are reshaping their workforce to include AI expertise. In education, we investigate how AI is transforming learning environments, from personalized tutoring systems to curriculum enhancements that prepare students for an AI-driven future. Through this data-driven approach, our project offers a comprehensive view of how AI is not only influencing the way people work and learn, but also reshaping societal expectations and institutional structures.")
 
 st.write(
     """

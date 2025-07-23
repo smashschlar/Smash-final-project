@@ -1,12 +1,19 @@
 import altair as alt
 import pandas as pd
+import seaborn as sns
 import streamlit as st
+import matplotlib.pyplot as plt
+import kagglehub
+from kagglehub import KaggleDatasetAdapter
+import numpy as np
+import plotly.express as px
 
 pages = {
     "Project Pages":
     [
         st.Page("pages/Overview.py", title = "Project Overview"),
         st.Page("pages/AIineducation.py", title = "AI in Education"),
+        st.Page("pages/AIinjobs.py", title = "AI in Jobs"),
     ]
 }
 
